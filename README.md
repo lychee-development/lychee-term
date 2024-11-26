@@ -2,10 +2,10 @@
     <img width="200" alt="Alacritty Logo" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">
 </p>
 
-<h1 align="center">Alacritty - A fast, cross-platform, OpenGL terminal emulator</h1>
+<h1 align="center">Lychee - A fast, cross-platform, OpenGL terminal emulator</h1>
 
 <p align="center">
-  <img alt="Alacritty - A fast, cross-platform, OpenGL terminal emulator"
+  <img alt="Lychee - A fast, cross-platform, OpenGL terminal emulator"
        src="extra/promo/alacritty-readme.png">
 </p>
 
